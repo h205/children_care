@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "452054796335",
+    "firebase_url": "https://children-care-50639.firebaseio.com",
+    "project_id": "children-care-50639",
+    "storage_bucket": "children-care-50639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452054796335:android:bc5007fe60b41b38e31eda",
+        "android_client_info": {
+          "package_name": "com.example.children_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452054796335-of1frkdqjqnl14ig1nnpemi3nlqe50o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdiEq4VdInyu82X-QaHt-U6ZxJ3UaOno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452054796335-of1frkdqjqnl14ig1nnpemi3nlqe50o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
